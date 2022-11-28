@@ -13,7 +13,7 @@ int main()
 
     while (n != 0)
     {
-        sum += n;
+        sum *= n;
         n--;
     }
 
